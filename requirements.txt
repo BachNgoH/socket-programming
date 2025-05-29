@@ -1,0 +1,23 @@
+# File Transfer Application Requirements
+# This project uses only Python standard library modules
+
+# Python version requirement
+# Python >= 3.6
+
+# Standard library modules used:
+# - socket (networking)
+# - threading (concurrent client handling)
+# - json (message protocol)
+# - os (file system operations)
+# - time (delays and timing)
+# - subprocess (demo script process management)
+# - typing (type hints)
+
+# No external dependencies required!
+# The application is designed to work with Python's standard library only.
+
+# To install Python (if not already installed):
+# - Windows: Download from https://python.org
+# - macOS: brew install python3 (with Homebrew)
+# - Linux: sudo apt-get install python3 (Ubuntu/Debian)
+#         sudo yum install python3 (CentOS/RHEL) 
